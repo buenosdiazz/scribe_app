@@ -189,6 +189,7 @@ input:-webkit-autofill:focus {
 }
 
 
+
 .bttn-default {
     padding: 12px 40px;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#482cbf+0,6ac6f0+100 */
@@ -366,7 +367,7 @@ input:-webkit-autofill:focus {
     background: transparent;
     font-weight: 600;
     border-bottom: 2px solid transparent;
-    margin: 100px 0;
+    margin: 0 0;
 }
 
 .mainmenu-area ul.nav.navbar-nav li a:hover,
