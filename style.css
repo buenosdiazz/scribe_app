@@ -448,7 +448,7 @@ input:-webkit-autofill:focus {
     background-repeat: no-repeat;
     background-position: left center;
     background-size: auto 100%;
-    margin-bottom: 120px;
+
 }
 
 .video-photo {
@@ -479,8 +479,8 @@ input:-webkit-autofill:focus {
     background-image: url('images/feature-bg.png');
     background-position: bottom -120px center;
     background-repeat: no-repeat;
-    background-size: auto 94%;
-    margin-bottom: 142px;
+    background-size: auto 100%;
+
 }
 
 .feature-area .page-title .title {
