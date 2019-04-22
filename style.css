@@ -292,7 +292,7 @@ input:-webkit-autofill:focus {
 
 .mainmenu-area {
     position: absolute;
-    left: px;
+    left: 0;
     top: 0;
     width: 100%;
     z-index: 9999;
@@ -331,28 +331,6 @@ input:-webkit-autofill:focus {
     opacity: 1;
 }
 
-.mainmenu-area .right-button {
-    position: absolute;
-    right: 15px;
-    top: 12px;
-}
-
-.mainmenu-area .right-button a {
-    color: #ffffff;
-    padding: 10px 40px;
-    border-radius: 50px;
-    background-color: rgba(255, 255, 255, 0.3);
-    display: inline-block;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-    font-weight: 700;
-    font-size: 14px;
-}
-
-.mainmenu-area .right-button a:hover {
-    background-color: rgba(255, 255, 255, 1);
-    color: #768ede;
-}
 
 .mainmenu-area ul.mainmenu {
     text-align: center;
@@ -362,19 +340,18 @@ input:-webkit-autofill:focus {
 
 .mainmenu-area ul.mainmenu li {
     float: left;
-    padding-left: 10px; 
     display: inline-block;
     text-align: center;
 }
 
 .mainmenu-area ul.nav.navbar-nav li a {
     color: #ffffff;
-    padding: 10px 2px;
+    padding: 10px 10px;
     text-transform: capitalize;
     background: transparent;
     font-weight: 600;
     border-bottom: 2px solid transparent;
-    margin: 0 15px;
+    margin: 100px 0;
 }
 
 .mainmenu-area ul.nav.navbar-nav li a:hover,
@@ -384,7 +361,7 @@ input:-webkit-autofill:focus {
 
 .mainmenu-area .navbar-brand {
     height: auto;
-    padding: 0 15px;
+    padding: 0 50px;
 }
 
 .mainmenu-area .navbar-brand img {
