@@ -64,6 +64,14 @@ img {
     height: auto;
 }
 
+.phone{
+    max-width: 87%;
+    height: auto;
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
+
+
 h1,
 h2,
 h3,
@@ -218,7 +226,7 @@ input:-webkit-autofill:focus {
 /*-- 4. Helper-Classes --*/
 
 .section-padding-top {
-    padding-top: 120px;
+    padding-top: 100px;
 }
 
 .section-padding {
@@ -361,7 +369,7 @@ input:-webkit-autofill:focus {
 
 .mainmenu-area .navbar-brand {
     height: auto;
-    padding: 0 50px;
+    padding: 0 20px;
 }
 
 .mainmenu-area .navbar-brand img {
